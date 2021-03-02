@@ -13,3 +13,4 @@ My goal is to acquire the knowledge and skillset to become a blockchain and smar
 Why did you choose FinTech as a career path?
 The financial system is changing. I want to have the knowledge and skillset to be able to take advantage of the opportunities that will present themself.
 
+git status change in terminal
